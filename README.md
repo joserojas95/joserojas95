@@ -1,5 +1,5 @@
 # Hi, I am José Rojas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/josé-maría-rojas-govantes/)](https://https://www.linkedin.com/in/josé-maría-rojas-govantes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://https://www.linkedin.com/in/jose-maria-rojas-govantes/)](https://https://www.linkedin.com/in/jose-maria-rojas-govantes/)
 [![Gmail Badge](https://img.shields.io/badge/-joserojasgovantes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joserojasgovantes@gmail.com)](mailto:joserojasgovantes@gmail.com)
 
 I'm a junior Data Analytics with 4 years experience as HR consultant with an analytical and now technological focus (SQL, Python, Pandas, Power Bi).
